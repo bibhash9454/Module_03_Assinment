@@ -1,4 +1,5 @@
 <?php
+//Task 5: Password Generator
 function   generatePassword($length) {
 $n=0;
 $mod=0;
@@ -20,6 +21,6 @@ else {
     echo "$length Digit random password is: " .$password.PHP_EOL;
     }
 
-generatePassword(16);
+generatePassword(12);
 
 ?>
