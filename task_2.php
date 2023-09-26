@@ -1,7 +1,6 @@
 <?php 
 //Task 2: Array Manipulation
 
-
 function dellEven($arr){
 
 $n=count($arr);

@@ -8,9 +8,6 @@ function Replace_lowercase($text){
     $replacestd=str_replace("brown" ,"red" , $lowCase);  //Replace "brown" with "red" in the string.
    echo $replacestd;   //Print the modified text.
 }
-
 Replace_lowercase($text);
-
-
 
 ?>
